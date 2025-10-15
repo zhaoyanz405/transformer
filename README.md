@@ -153,4 +153,4 @@ Post-norm：收敛更快，但层数深了容易训练不稳定
 Pre-norm：更稳定，可以训练击败层，现在多采用这种方案
 
 ### Why Self-Attention
-![alt text](why-self-attention.png)
+![alt text](src/why-self-attention.png)
