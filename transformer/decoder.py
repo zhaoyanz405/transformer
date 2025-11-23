@@ -1,4 +1,4 @@
-from utils import *
+from transformer.attention import *
 
 
 class DecoderLayer(nn.Module):

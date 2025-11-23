@@ -1,6 +1,6 @@
 from torch import nn
 
-from utils import *
+from transformer.attention import *
 from encoder import EncoderLayer
 from decoder import DecoderLayer
 
